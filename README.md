@@ -1,5 +1,5 @@
 #ContinuousIntegration
 Dummy commiitt
-aA test repo to show Continuous Integration in parallel development setup....
+jjhjaA test repo to show Continuous Integration in parallel development setup....
 
 [![Build Status](https://drone.io/github.com/OpsTree/ContinuousIntegration/status.png)](https://drone.io/github.com/OpsTree/ContinuousIntegration/latest)
